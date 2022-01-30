@@ -1,6 +1,6 @@
 ## Тестовое задание для "Практика"
 
-###Запуск проекта:
+### Запуск проекта:
 
 ```console
 docker-compose --env-file src/config/.env up -d
